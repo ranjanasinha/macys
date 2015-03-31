@@ -1,4 +1,4 @@
-public class Code2
+public class Codee2
 {
 	public static void main(String args[])
 	{
